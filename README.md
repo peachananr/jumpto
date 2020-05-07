@@ -2,10 +2,8 @@
 Create a smooth jump to sub navigational menu in one JS call
 Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
 
-[![Jump To Menu](http://www.thepetedesign.com/images/jumpto_image.png "Jump To Menu")](http://www.thepetedesign.com/demos/jumpto_demo.html)
-
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/jumpto_demo.html)
+[View demo](http://peachananr.github.io/jumpto/demo/jumpto_demo.html)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari have been tested. Not tested on IE.
